@@ -1,0 +1,2 @@
+# ELEN4019_ASSIGNMENT2_TheLLM_CONVERSATION
+My Chats with Chatgpt with regards to my ELEN4019 ESSAY 2
